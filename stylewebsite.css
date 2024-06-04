@@ -1,0 +1,190 @@
+body{
+	margin: 2px;
+	padding: 0px;
+	font-size: 18px;
+}
+.wrapper{
+	width: 1024px;
+	margin: auto;
+	padding: 20px 0px 20px 0px;
+}
+
+nav{
+	background-color: white;
+}
+
+nav	>  .wrapper {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.menu{
+	width: 50%;
+}
+.menu > ul {
+	display: flex;
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	justify-content: space-evenly;
+}
+.menu > ul > li {
+	text-decoration: none;
+	color: black;
+}
+
+.Logo{
+	display: flex;
+	align-items: center;
+}
+.Logo > img{
+	width: 170px;
+	height: 150px;
+}
+h1{
+	font-style: initial;
+	text-align: center;
+	color: #FFDB00;}
+
+
+article{
+	background-color: #1A4D2E ;
+	width: 1300px;
+	margin: auto;
+	padding: 10px;
+}
+article > img{
+	width: 150;
+	height: 200;
+	float: left;
+	margin: 10px 10px 0px 0;
+
+}
+p{
+	color: white;
+}
+
+footer{
+	background-color: #FFDB00 ;
+	width: 1300px;
+	margin: auto;
+	padding: 10px;
+}
+footer P{
+	color: black;
+	text-align: center;
+}
+}
+a:link{
+	color: #E9C874;
+}
+a:active{
+	color: #416D19;
+}
+a:hover{
+	background-color: #9BCF53;
+	color: #416D19;
+	font-weight:bold;
+}
+img{
+	width: 300px;
+	height: 280px;
+	display: flex;
+}
+.profil{
+	background-color: #1A4D2E;
+	width: 1300px;
+	margin: auto;
+	padding: 10px;
+
+}
+.profil h1{
+	color: #FFDB00;
+	text-align: center;
+}
+.profil img{
+  display: inline;
+  width: 300px;
+	height: 280px;;
+}
+.registrasi{
+	background-color:#1A4D2E ;
+	width: 1300px;
+	margin: auto;
+	padding: 10px;
+}
+.registrasi  h1{
+	color: #FFDB00;
+	text-align: center;
+}
+.registrasi form{
+	color: white;
+}
+.registrasi h3{
+	color: #DDDDDD;
+}
+.dataregistrasi{
+	background-color:#1A4D2E ;
+	width: 1300px;
+	margin: auto;
+	padding: 10px;
+}
+.dataregistrasi h4{
+	color: white;
+	text-align: center;
+}
+.dataregistrasi table{
+	 border-collapse: collapse;
+     width: 98%;
+} 
+.dataregistrasi table,th,td{
+  border:1px solid black;
+  border-color: #black;
+}
+.dataregistrasi td{
+	background-color:#87A922 ;
+  text-align: center;
+  padding: 4px;
+}
+.dataregistrasi th{
+  background-color: #FFDB00;
+  color: black;
+  padding: 5px;
+}
+.dataregistrasi tr:nth-child(odd){
+  background-color: #87A922;
+}
+.dataregistrasi img{
+	width: 90px;
+   height: 100px;
+   display: inline;
+}
+.dataregistrasi h1{
+	color: #FFDB00;
+	text-align: center;
+}
+.dataregistrasi p{
+	text-align: center;
+}
+.dataregistrasi form{
+	color: white;
+
+}
+.dataregistrasi p{
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
